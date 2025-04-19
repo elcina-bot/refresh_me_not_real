@@ -1,0 +1,25 @@
+body {
+  background-color: #1a001a;
+  color: #ffccff;
+  font-family: 'Georgia', serif;
+  text-align: center;
+  padding: 3rem;
+  background-image: url("https://i.imgur.com/GIw9sjm.gif");
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #ff66cc;
+  text-shadow: 2px 2px #000;
+}
+
+.spellbook {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 2rem;
+  border: 2px dashed #ff99cc;
+  max-width: 600px;
+  margin: 2rem auto;
+  line-height: 1.7;
+}

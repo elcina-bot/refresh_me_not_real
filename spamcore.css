@@ -1,0 +1,13 @@
+body {
+  background-color: #ffe6e6;
+  font-family: Arial, sans-serif;
+  color: #cc0000;
+  text-transform: uppercase;
+  text-align: center;
+  animation: shake 0.3s infinite alternate;
+}
+
+@keyframes shake {
+  0% { transform: translateX(-2px); }
+  100% { transform: translateX(2px); }
+}

@@ -1,0 +1,41 @@
+body {
+  background-color: #ffe6f2;
+  color: #663366;
+  font-family: 'Comic Sans MS', cursive;
+  padding: 2rem;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  line-height: 1.8;
+}
+
+h1 {
+  font-size: 2rem;
+  text-shadow: 1px 1px white;
+  margin-bottom: 2rem;
+}
+
+.memory {
+  background-color: #fff0f8;
+  padding: 1.5rem;
+  border: 2px dashed #cc99cc;
+  border-radius: 12px;
+}
+
+.blink {
+  animation: blink 1s step-end infinite;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #996699;
+}

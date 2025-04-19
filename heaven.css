@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to bottom, white, #f5f5ff);
+  color: #ccc;
+  font-family: serif;
+  text-align: center;
+  padding-top: 120px;
+  opacity: 0.4;
+  animation: fadeout 8s infinite alternate;
+}
+
+@keyframes fadeout {
+  from { opacity: 0.4; }
+  to { opacity: 0.1; }
+}

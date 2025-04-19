@@ -1,0 +1,31 @@
+body {
+  background-color: #ff69b4;
+  color: white;
+  font-family: 'Arial MS', cursive;
+  text-align: center;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  color: yellow;
+  background: red;
+  padding: 1rem;
+  border: 5px dotted white;
+}
+
+a {
+  display: inline-block;
+  margin-top: 2rem;
+  font-weight: bold;
+  background: white;
+  color: #ff69b4;
+  padding: 1rem;
+  border: 2px dashed black;
+  text-decoration: none;
+}
+
+a:hover {
+  background: black;
+  color: white;
+}

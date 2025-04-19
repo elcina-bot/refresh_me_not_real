@@ -1,0 +1,58 @@
+body {
+  background-color: #fffafc;
+  color: #222;
+  font-family: 'Georgia', serif;
+  padding: 3rem;
+  max-width: 700px;
+  margin: auto;
+  text-align: center;
+  line-height: 1.8;
+}
+
+h1 {
+  font-family: 'Courier New', monospace;
+  font-size: 1.5rem;
+  color: #ff33cc;
+  margin-bottom: 1.5rem;
+}
+
+.bio {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+.feed {
+  background: #fff0f5;
+  border: 1px dashed #ff99cc;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.feed h2 {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  color: #cc0077;
+}
+
+.feed ul {
+  list-style: none;
+  padding: 0;
+}
+
+.feed li {
+  margin-bottom: 0.5rem;
+}
+
+.mantra {
+  color: #990066;
+  font-weight: bold;
+  font-size: 1rem;
+  margin-top: 2rem;
+}
+
+footer {
+  margin-top: 4rem;
+  font-size: 0.8rem;
+  color: #aaa;
+}

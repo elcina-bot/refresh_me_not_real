@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: lime;
+  font-family: "Courier New", monospace;
+  text-align: center;
+  animation: glitch 0.1s infinite;
+}
+
+@keyframes glitch {
+  0% { transform: skewX(-5deg); }
+  50% { transform: skewX(5deg); }
+  100% { transform: skewX(0deg); }
+}

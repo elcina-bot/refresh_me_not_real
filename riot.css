@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color: hotpink;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  background-image: url("https://i.imgur.com/YfS9F7B.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  text-shadow: 2px 2px #ff00ff;
+  margin-top: 2rem;
+}
+
+marquee {
+  color: yellow;
+  font-size: 1.5rem;
+  margin: 2rem 0;
+}
+
+p {
+  font-style: italic;
+  margin-top: 2rem;
+  color: white;
+}

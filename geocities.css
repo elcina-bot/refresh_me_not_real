@@ -1,0 +1,14 @@
+body {
+  background-color: yellow;
+  color: blue;
+  font-family: "Comic Sans MS", cursive;
+  background-image: url("https://www.gifss.com/computer/internet/images/internet-13.gif");
+  background-repeat: repeat;
+  text-align: center;
+  animation: blink 0.8s infinite alternate;
+}
+
+@keyframes blink {
+  from { opacity: 1; }
+  to { opacity: 0.4; }
+}

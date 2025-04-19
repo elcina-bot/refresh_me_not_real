@@ -1,0 +1,17 @@
+body {
+  background-color: #222;
+  color: #bbb;
+  font-family: Georgia, serif;
+  text-align: center;
+  padding-top: 100px;
+  font-style: italic;
+}
+
+a {
+  color: #888;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: line-through;
+  color: #444;
+}

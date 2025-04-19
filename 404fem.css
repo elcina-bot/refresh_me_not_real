@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  color: #ffffff;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #ff0033;
+  text-shadow: 0 0 8px red;
+  margin-bottom: 2rem;
+}
+
+.text {
+  font-size: 1rem;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+  color: #cccccc;
+}

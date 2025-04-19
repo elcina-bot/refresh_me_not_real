@@ -1,0 +1,29 @@
+body {
+  background-color: #000000;
+  color: #ff99ff;
+  font-family: monospace;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  color: #ff3366;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.content, .voice {
+  max-width: 600px;
+  margin: 0 auto 2rem;
+  background-color: #111111;
+  border: 1px solid #333;
+  padding: 1.5rem;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #666;
+}
